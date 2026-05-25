@@ -54,7 +54,7 @@ export default function Home() {
             <a href="https://nervos.org" target="_blank" className="hover:text-zinc-900 dark:hover:text-white transition-colors">Documentation</a>
             <a href="https://explorer.nervos.org" target="_blank" className="hover:text-zinc-900 dark:hover:text-white transition-colors">Explorer</a>
           </div>
-          <p>© 2024 CKB Learning Project</p>
+          <p>© 2026 CKB Learning Project</p>
         </div>
       </footer>
     </div>
