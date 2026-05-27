@@ -52,7 +52,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-6 text-zinc-500 text-sm">
           <div className="flex items-center gap-4">
             <a href="https://nervos.org" target="_blank" className="hover:text-zinc-900 dark:hover:text-white transition-colors">Documentation</a>
-            <a href="https://explorer.nervos.org" target="_blank" className="hover:text-zinc-900 dark:hover:text-white transition-colors">Explorer</a>
+            <a href="https://testnet.explorer.nervos.org/" target="_blank" className="hover:text-zinc-900 dark:hover:text-white transition-colors">Explorer</a>
           </div>
           <p>© 2026 CKB Learning Project</p>
         </div>
